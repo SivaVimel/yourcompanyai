@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yourcompanyai.digitaloman.ai/sitemap.xml
